@@ -192,11 +192,13 @@ MonoBehaviour:
   speed: 12
   gravity: -58.86
   jumpHeight: 3
+  SprintcameraFOVTime: 0.1
   groundCheck: {fileID: 1848848117}
   groundDistance: 0.4
   groundmask:
     serializedVersion: 2
     m_Bits: 256
+  normalFOV: 0
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
